@@ -1,6 +1,6 @@
 # Google Books Search
 
-## [Click Here to View the Project]()
+## [Click Here to View the Project](https://lets-read-books.herokuapp.com/)
 
 <img src="assets/images/lets-read-image.jpg">
 
